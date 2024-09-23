@@ -8,4 +8,8 @@
 
 3. Fazer alterações: Adicionar, Commitar, Enviar arquivos [  ]
 
-4.
+4. Criar uma nova Branch [  ]
+
+5. Realizar um pull request e Merge [  ]
+
+6. Criar um Fork [  ]
